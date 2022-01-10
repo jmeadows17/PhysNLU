@@ -1,3 +1,8 @@
 WikiRaw.csv filter=lfs diff=lfs merge=lfs -text
-WikiText.test.txt filter=lfs diff=lfs merge=lfs -text
 WikiText.train.txt filter=lfs diff=lfs merge=lfs -text
+WikiText.valid.txt filter=lfs diff=lfs merge=lfs -text
+WikiText.test.txt filter=lfs diff=lfs merge=lfs -text
+BSO_data.csv filter=lfs diff=lfs merge=lfs -text
+SP_data.csv filter=lfs diff=lfs merge=lfs -text
+DC_data.csv filter=lfs diff=lfs merge=lfs -text
+SSP_data.csv filter=lfs diff=lfs merge=lfs -text
